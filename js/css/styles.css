@@ -1,0 +1,9 @@
+* {
+}
+
+#list {
+  min-height: 50px;
+  width: 600px;
+  padding: 10px;
+  border: 1px solid black;
+}
